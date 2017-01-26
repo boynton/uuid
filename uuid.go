@@ -1,9 +1,10 @@
 package main
 
 import (
-	"github.com/pborman/uuid"
 	"fmt"
 	"os"
+
+	"github.com/pborman/uuid"
 )
 
 func usage() {
